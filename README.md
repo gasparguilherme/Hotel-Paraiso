@@ -1,7 +1,6 @@
 ## Projeto: Página Web Responsiva com Flexbox
-![print-07 (2) (3)](https://github.com/gasparguilherme/NodeShop/assets/139807681/949a20a2-32b1-438f-a088-54ac3da8ba8d)
 
-## Descrição:
+__Descrição:__
 Este projeto representa uma página web moderna e responsiva desenvolvida com a poderosa técnica de layout do CSS, o Flexbox. A utilização inteligente do Flexbox proporciona uma experiência de usuário agradável, adaptando-se de maneira fluida a diferentes tamanhos de tela e dispositivos.
 
 __Recursos Destacados:__
@@ -19,3 +18,6 @@ O uso estratégico do Flexbox permite a criação de seções dinâmicas que se 
 __Tecnologias Utilizadas__
 - HTML5
 - CSS3 (Flexbox)
+
+## Interface:
+![print-07 (2) (3)](https://github.com/gasparguilherme/NodeShop/assets/139807681/949a20a2-32b1-438f-a088-54ac3da8ba8d)
